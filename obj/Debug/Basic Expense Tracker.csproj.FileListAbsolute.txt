@@ -1,0 +1,22 @@
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe.config
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csprojResolveAssemblyReference.cache
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Form1.resources
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Properties.Resources.resources
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.GenerateResource.Cache
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.pdb
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.pdb
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe.config
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.pdb
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Form1.resources
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Properties.Resources.resources
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.GenerateResource.cache
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.exe
+C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe.config
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.exe
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.pdb
