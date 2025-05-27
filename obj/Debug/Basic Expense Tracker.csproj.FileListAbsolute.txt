@@ -20,3 +20,15 @@ C:\Users\UCJ JAFFNA\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj
 D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe.config
 D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.exe
 D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\mscorlib.dll
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\normidna.nlp
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\normnfc.nlp
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\normnfd.nlp
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\normnfkc.nlp
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\normnfkd.nlp
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csprojResolveAssemblyReference.cache
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Form1.resources
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Properties.Resources.resources
+D:\UCJ\NVQ 6\Semester_01\Software change management\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.GenerateResource.Cache
